@@ -29,7 +29,7 @@ You can also use a **third-party identity provider** like Microsoft or Google to
 > **📌 Note:** You must provide your <strong>company email address</strong> for registration. Personal email addresses will not be accepted.
 
 <p align="center">
-<img alt="Activate Account" src="assets/Screenshot from 2025-06-21 19-38-28.png" width="300" height="600"></p>
+<img alt="Activate Account" src="assets/Screenshot from 2025-06-21 19-38-28.png" width="350" height="600"></p>
 
 ---
 
@@ -44,7 +44,7 @@ If you signed up with an email and password:
 > **✅ Tip:** Skip this step if you signed in using a third-party provider.
 
 <p align="center">
-<img alt="Activate Account" src="" width="350" height="350">
+<img alt="Activate Account" src="assets/Screenshot from 2025-06-21 19-54-57.png" width="350" height="350">
 </p>
 
 ---
@@ -62,7 +62,7 @@ On the **Create your profile** page:
 5. Choose whether you'd like to receive product news and updates and Click **Continue**.
 
 <p align="center">
-<img alt="Activate Account" src="https://github.com/stacy4602/Matillion_Data_Productivity_Cloud_How-to-guide/blob/main/Screencastfrom21-06-2507_57_09PMIST1online-video-cutter.com-ezgif.com-video-to-gif-converter.gif?raw=true" width="800" height="300">
+<img alt="Activate Account" src="assets/Screencastfrom21-06-2507_57_09PMIST1online-video-cutter.com-ezgif.com-video-to-gif-converter.gif" width="800" height="300">
 </p>
 
 ---
@@ -94,7 +94,7 @@ You’re now on the **Getting Started** tab.
 Once everything is ready, the designer interface will open. To know more, read <a href="https://docs.matillion.com/data-productivity-cloud/designer/docs/designer-overview/" style="color:#00A651;">Designer Overview</a>
 
 <p align="center">
-<img alt="Activate Account" src="https://github.com/stacy4602/Matillion_Data_Productivity_Cloud_How-to-guide/blob/main/Screenshot%20from%202025-06-21%2023-02-00.png?raw=true" width="800" height="350"></p>
+<img alt="Activate Account" src="assets/Screenshot from 2025-06-21 23-02-00.png" width="800" height="350"></p>
 
 - You reached the screen that asks: **“What would you like to do today?”**
 
