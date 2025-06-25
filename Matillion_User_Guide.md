@@ -71,10 +71,10 @@ On the **Create your profile** page:
 
 On the **Set up your account** tab:
 
-- Select your preferred **account region**.
-- Click **Continue** to move ahead.
+1. Select your preferred **account region**.
+2. Click **Continue** to move ahead.
 
-> **ℹ️ Info:** Choose the region closest to your users for better performance. To know more, read <a href="https://docs.matillion.com/data-productivity-cloud/hub/docs/create-an-account/" style="color:#00A651;">Account region</a> in <strong>Create an account</strong>.
+> **ℹ️ Info:** Choose the region closest to your users for better performance. To know more, read <a href="https://docs.matillion.com/data-productivity-cloud/hub/docs/create-an-account/" target="_blank" style="color:#00A651;">Account region</a> in <strong>Create an account</strong>.
 
 
 > **⚠️** Your account region stores your data and resources and can't be changed after setup; to use a different region, create a separate Data Productivity Cloud account.
@@ -85,9 +85,9 @@ On the **Set up your account** tab:
 
 You’re now on the **Getting Started** tab.
 
-- Select the **Matillion trial warehouse** to begin exploring immediately (No setup required).
-- Or choose to connect to your own platform: **Snowflake**, **Amazon Redshift**, or **Databricks**.
-- Click **Continue**.
+1. Select the **Matillion trial warehouse** to begin exploring immediately (No setup required).
+2. Or choose to connect to your own platform: **Snowflake**, **Amazon Redshift**, or **Databricks**.
+3. Click **Continue**.
 
 > **📌 Note:** Setup can take a few minutes. Please stay on the page while your account and warehouse are being configured.
 
@@ -100,7 +100,7 @@ Once everything is ready, the designer interface will open. To know more, read <
 
 🎉 Congratulations, your Matillion Data Productivity Cloud environment is ready!
 
-> **ℹ️ Info:** Now you're a registered user of the Data Productivity Cloud, you will automatically be enrolled in the 14-day free trial. For more information, read <a href="https://docs.matillion.com/data-productivity-cloud/free-trial/" style="color:#00A651;">Free trial</a>.
+> **ℹ️ Info:** Now you're a registered user of the Data Productivity Cloud, you will automatically be enrolled in the 14-day free trial. For more information, read <a href="https://docs.matillion.com/data-productivity-cloud/free-trial/" style="color:#00A651;" target="_blank">Free trial</a>.
 
 > **✅ Tip: ** When you create an account, you're assigned the Super Admin role with full access to all projects and environments, which can be modified later. Also, Invite a second admin to your account for redundancy. For more details, read <a href="https://docs.matillion.com/data-productivity-cloud/hub/docs/manage-account-users/" style="color:#00A651;"> Manage account users</a>.
 
