@@ -29,7 +29,7 @@ You can also use a **third-party identity provider** like Microsoft or Google to
 > **📌 Note:** You must provide your <strong>company email address</strong> for registration. Personal email addresses will not be accepted.
 
 <p align="center">
-<img alt="Activate Account" src="https://github.com/stacy4602/Matillion_Data_Productivity_Cloud_How-to-guide/blob/main/Screenshot%20from%202025-06-21%2019-37-58.png?raw=true" width="300" height="600"></p>
+<img alt="Activate Account" src="assets/Screenshot from 2025-06-21 19-38-28.png" width="300" height="600"></p>
 
 ---
 
@@ -44,7 +44,7 @@ If you signed up with an email and password:
 > **✅ Tip:** Skip this step if you signed in using a third-party provider.
 
 <p align="center">
-<img alt="Activate Account" src="https://github.com/stacy4602/Matillion_Data_Productivity_Cloud_How-to-guide/blob/main/Screenshot%20from%202025-06-21%2019-54-57.png?raw=true" width="350" height="350">
+<img alt="Activate Account" src="" width="350" height="350">
 </p>
 
 ---
