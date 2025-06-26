@@ -102,7 +102,7 @@ Once everything is ready, the designer interface will open. To know more, read <
 
 > **ℹ️ Info:** Now you're a registered user of the Data Productivity Cloud, you will automatically be enrolled in the 14-day free trial. For more information, read <a href="https://docs.matillion.com/data-productivity-cloud/free-trial/" style="color:#00A651;" target="_blank">Free trial</a>.
 
-> **✅ Tip: ** When you create an account, you're assigned the Super Admin role with full access to all projects and environments, which can be modified later. Also, Invite a second admin to your account for redundancy. For more details, read <a href="https://docs.matillion.com/data-productivity-cloud/hub/docs/manage-account-users/" style="color:#00A651;"> Manage account users</a>.
+> **✅ Tip:** When you create an account, you're assigned the Super Admin role with full access to all projects and environments, which can be modified later. Also, Invite a second admin to your account for redundancy. For more details, read <a href="https://docs.matillion.com/data-productivity-cloud/hub/docs/manage-account-users/" style="color:#00A651;"> Manage account users</a>.
 
 ---
 
